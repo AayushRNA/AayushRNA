@@ -1,5 +1,5 @@
 # 💫 About Me:
-“Hey, I’m Aayush!<br><br>Goals: Aspiring full-stack developer, building a strong foundation in coding and design.<br><br>Projects: Currently working on small projects to sharpen my skills.<br><br>Skills: IT graduate with experience in web development, UI/UX, and music creation.<br><br>Motivation: Driven by curiosity and the thrill of creating, whether it’s code, design, or a new idea.”
+Hey, I’m Aayush!<br><br>Goals: Aspiring full-stack developer, building a strong foundation in coding and design.<br><br>Projects: Currently working on small projects to sharpen my skills.<br><br>Skills: IT graduate with experience in web development, UI/UX, and music creation.<br><br>Motivation: Driven by curiosity and the thrill of creating, whether it’s code, design, or a new idea.
 
 
 ## 🌐 Socials:
